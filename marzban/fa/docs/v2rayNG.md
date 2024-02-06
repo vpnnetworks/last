@@ -12,12 +12,9 @@ title: v2rayNG
 ۱- وارد ربات شوید و با استفاده از دکمه‌ی مدیریت سرویس لینک اتصال (subscription) خود را دریافت کنید. سپس لینک مورد نظر را کپی کنید.
 
 ۲- وارد برنامه v2rayNG شوید و روی ➕ بزنید و سپس روی  دومین گزینه Import config from Clipboard کلیک کنید.
-<figure>
-     <img src="https://github.com/mdjvd/gozargah.github.io/assets/116950557/bee4bbf0-f811-4b20-af28-adee270b469d"
-          style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
-     <br>
-    <figcaption>Caption goes here</figcaption>
-</figure>
+<img src="https://github.com/mdjvd/gozargah.github.io/assets/116950557/bee4bbf0-f811-4b20-af28-adee270b469d"
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
+<br>
 
 <img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/3eb77c79-a735-40ef-a670-e0091e9da44a"
      style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
@@ -39,5 +36,13 @@ title: v2rayNG
 
 ## مرتب کردن سرور‌ها بر اساس پینگ
 
+1. روی سه نقطه بالا سمت راست بزنید و گزینه Real delay all configuration را انتخاب کنید تا از سرور ها تست پینگ بگیرد.
+
+2. بعد از اتمام تست پینگ مجددا روی سه نقطه سمت راست بالا بزنید و روی گزینه Sorting by test results کلیک کنید تا برای شما بهترین سرور را طبق پینگ کمتر مرتب سازی کند.
+
 ## آپدیت کردن لینک اتصال (subscription)
 
+1. روی سه نقطه بالا سمت راست بزنید و روی گزینه Update subscription کلیک کنید تا پیام موفقیت آمیز (Success) برای شما نمایش داده شود و سرور های شما بروز شود.
+
+توجه کنید:
+موقع  آپدیت کردن سرور ها ، فیلترشکن روشن دیگه ایی نداشته باشید.
