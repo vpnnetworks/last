@@ -23,7 +23,8 @@ title: v2rayNG
 
 ۳- اکنون روی سه نقطه بالا سمت راست بزنید و روی گزینه Update subscription کلیک کنید تا سرور ها اضافه شود.
 <img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/084dc4ef-f625-433a-810c-6148c4fa78c8"
-     style="display:block;float:none;margin-left:auto;margin-right:auto;width:47%">
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:47%"
+     caption="Caption for my picture">
 <br>
 
 
