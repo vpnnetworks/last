@@ -1,7 +1,7 @@
 {
-  "name": "marzban-docs",
+  "name": "vpn-docs",
   "version": "0.1.0",
-  "description": "marzban documentation",
+  "description": "vpn documentation",
   "scripts": {
     "marzban:dev": "NODE_ENV=development vitepress dev marzban --port 3000",
     "marzban:build": "vitepress build marzban",
