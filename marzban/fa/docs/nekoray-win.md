@@ -1,5 +1,5 @@
 ---
-title: v2rayNG
+title: Nekoray
 ---
 
 # آموزش Nekoray
