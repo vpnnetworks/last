@@ -2,15 +2,15 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
-title: راه حلی یکپارچه و قدرتمند برای بهبود دسترسی
+title: v2ray guide
 
 hero:
-  name: مـرزبـــان
-  text: راه حلی یکپارچه و قدرتمند برای بهبود دسترسی
-  tagline: زیرساختی ساده، مدرن، قدرتمند و مقیاس پذیر برای بهبود دسترسی به نقاط مختلف
+  name: v2ray guide
+  text: اتصال به اینترنت آزاد
+  tagline: آموزش کامل و جامع عبور از ساسنسورشیپ با v2ray برای تمام دستگاه‌ها.
   image:
     src: /images/logo-dark.png
-    alt: مرزبان
+    alt: v2ray guide
   actions:
     - theme: brand
       text: مطالعه مستندات
