@@ -1,48 +1,36 @@
 export const config = {
   sidebar: [
     {
-      text: 'آموزش‌ها',
+      text: 'Android',
       items: [
         {
           text: 'v2rayNG',
           link: '/docs/v2rayNG',
         },
         {
-          text: 'راه‌اندازی',
+          text: 'Hiddify',
           link: '/docs/installation',
         },
-        {
-          text: 'پیکربندی',
-          link: '/docs/configuration',
-        },
       ],
     },
     {
-      text: 'مستندات',
+      text: 'IOS',
       items: [
-        { text: 'تنظیمات هاست', link: '/docs/host-settings' },
-        { text: 'سابسکریپشن', link: '/docs/subscription' },
-        { text: 'مرزبان نود ✨', link: '/docs/marzban-node' },
-        { text: 'ربات تلگرام', link: '/docs/telegram-bot'},
-        { text: 'اسکریپت مرزبان', link: '/docs/marzban-script' },
-        { text: 'خط فرمان (CLI)', link: '/docs/marzban-cli' },
-        { text: 'API', link: '/docs/api' },
-        { text: 'Webhook', link: '/docs/webhook' },
+        { text: 'Streisand', link: '/docs/host-settings' },
       ],
     },
     {
-      text: 'آموزش‌ها',
+      text: 'Windows',
       items: [
-        { text: 'ساخت گواهی SSL', link: '/examples/issue-ssl-certificate' },
-        { text: 'فعال‌سازی SSL در مرزبان', link: '/examples/marzban-ssl' },
-        { text: 'فعال‌سازی TLS', link: '/examples/xray-tls-inbound' },
-        { text: 'راه‌اندازی REALITY', link: '/examples/all-on-one-port' },
-        { text: 'فعال‌سازی Cloudflare Warp', link: '/examples/warp' },
-        { text: 'مسدودسازی سایت ها', link: '/examples/blocking-rules' },
-        { text: 'همه چیز روی یک پورت', link: '/examples/all-on-one-port' },
-        { text: 'راه‌اندازی MySQL', link: '/examples/mysql' },
-        { text: 'بک‌آپ گرفتن', link: '/examples/backup' },
-        { text: 'تغییر ورژن Xray-core', link: '/examples/change-xray-version' },
+        { text: 'Nekoray', link: '/examples/issue-ssl-certificate' },
+        { text: 'Hiddify', link: '/examples/issue-ssl-certificate' },
+      ],
+    },
+    {
+      text: 'MacOS',
+      items: [
+        { text: 'Streisand', link: '/examples/issue-ssl-certificate' },
+        { text: 'Hiddify', link: '/examples/issue-ssl-certificate' },
       ],
     },
   ],
