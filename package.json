@@ -1,0 +1,19 @@
+{
+  "name": "marzban-docs",
+  "version": "0.1.0",
+  "description": "marzban documentation",
+  "scripts": {
+    "marzban:dev": "NODE_ENV=development vitepress dev marzban --port 3000",
+    "marzban:build": "vitepress build marzban",
+    "marzban:preview": "vitepress preview marzban --port 3000"
+  },
+  "author": "",
+  "devDependencies": {
+    "postcss": "^8.4.24",
+    "vitepress": "^1.0.0-beta.1"
+  },
+  "dependencies": {
+    "postcss-rtl": "^2.0.0",
+    "vue": "^3.3.4"
+  }
+}
