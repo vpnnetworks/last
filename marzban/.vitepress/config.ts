@@ -15,25 +15,19 @@ const englishThemeConfig = {
   ],
   nav: [
     { text: 'Home', link: '/en/' },
-    { text: 'Documentation', link: '/en/documentation/' },
-    { text: 'Examples', link: '/en/examples/' },
   ],
 
   footer: {
     message: 'Released under AGPL-3.0 License.',
     copyright: 'Copyright © 2023-present Gozargah',
-  },
-  editLink: {
-    pattern: 'https://github.com/gozargah/gozargah.github.io/edit/master/marzban/:path',
-    text: 'Edit this page on GitHub',
-  },
+  }
 }
 
 const persianLang = {
   label: 'فارسی',
   lang: 'fa',
   dir: 'rtl',
-  title: 'مرزبان',
+  title: 'v2ray guide',
   description: '',
   link: '/',
   themeConfig: persianThemeConfig,
@@ -41,7 +35,7 @@ const persianLang = {
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: 'Marzban',
+  title: 'v2ray guide',
   description: 'Unified Censorship Resistant Solution',
   base: BASE,
   cleanUrls: true,
