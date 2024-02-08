@@ -28,11 +28,11 @@ jobs:
       - uses: actions/configure-pages@v2
       - name: Copy files to /marzban path
         run: |
-          mkdir -p dist/
-          cp -r marzban/.vitepress/dist/* dist/
+          mkdir -p dist/marzban
+          cp -r marzban/.vitepress/dist/* dist/marzban
       - uses: actions/upload-pages-artifact@v1
         with:
-          path: dist
+          path: dist/marzban
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v1
