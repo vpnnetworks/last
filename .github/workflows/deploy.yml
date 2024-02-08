@@ -26,8 +26,9 @@ jobs:
       - name: Build
         run: npm run marzban:build
       - uses: actions/configure-pages@v2
-      - name: Copy files to root
+      - name: Create dist directory and copy files to root
         run: |
+          mkdir -p dist
           cp -r marzban/.vitepress/dist/* dist/
       - uses: actions/upload-pages-artifact@v1
         with:
