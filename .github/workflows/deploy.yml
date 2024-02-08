@@ -26,13 +26,12 @@ jobs:
       - name: Build
         run: npm run marzban:build
       - uses: actions/configure-pages@v2
-      - name: Copy files to /marzban path
+      - name: Copy files to root
         run: |
-          mkdir -p dist/marzban
-          cp -r marzban/.vitepress/dist/* dist/marzban
+          cp -r marzban/.vitepress/dist/* dist/
       - uses: actions/upload-pages-artifact@v1
         with:
-          path: dist/marzban
+          path: dist
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v1
