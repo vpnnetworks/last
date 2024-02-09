@@ -9,28 +9,29 @@ export const config = {
         },
         {
           text: 'Hiddify',
-          link: '/docs/installation',
+          link: '/docs/hiddify',
         },
       ],
     },
     {
       text: 'IOS',
       items: [
-        { text: 'Streisand', link: '/docs/host-settings' },
+        { text: 'Streisand', link: '/docs/streisand' },
       ],
     },
     {
       text: 'Windows',
       items: [
-        { text: 'Nekoray', link: '/examples/issue-ssl-certificate' },
-        { text: 'Hiddify', link: '/examples/issue-ssl-certificate' },
+        { text: 'Nekoray', link: '/docs/nekoray-win' },
+        { text: 'Hiddify', link: '/docs/hiddify' },
       ],
     },
     {
       text: 'MacOS',
       items: [
-        { text: 'Streisand', link: '/examples/issue-ssl-certificate' },
-        { text: 'Hiddify', link: '/examples/issue-ssl-certificate' },
+        { text: 'FoxRay', link: '' },
+        { text: 'Sing-Box', link: '/docs/sing-box'},
+        { text: 'Hiddify', link: '/docs/hiddify' },
       ],
     },
   ],

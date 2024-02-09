@@ -14,7 +14,7 @@ hero:
   actions:
     - theme: brand
       text: مطالعه مستندات
-      link: './docs/introduction'
+      link: './docs/'
     - theme: alt
       text: نمونه‌ها
       link: './examples/'

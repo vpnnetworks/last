@@ -12,9 +12,6 @@ title: v2rayNG
 ۱- وارد ربات شوید و با استفاده از دکمه‌ی مدیریت سرویس لینک اتصال (subscription) خود را دریافت کنید. سپس لینک مورد نظر را کپی کنید.
 
 ۲- وارد برنامه v2rayNG شوید و روی ➕ بزنید و سپس روی  دومین گزینه Import config from Clipboard کلیک کنید.
-<img src="https://github.com/mdjvd/gozargah.github.io/assets/116950557/bee4bbf0-f811-4b20-af28-adee270b469d"
-     style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
-<br>
 
 <img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/3eb77c79-a735-40ef-a670-e0091e9da44a"
      style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
