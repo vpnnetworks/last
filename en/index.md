@@ -5,7 +5,7 @@ layout: home
 title: Unified Censorship Resistant Solution
 
 hero:
-  name: "Marzban"
+  name: "VPN HELP"
   text: Unified Censorship Resistant Solution
   tagline: Simple, powerful, and scalable solution you've always wanted.
   image:

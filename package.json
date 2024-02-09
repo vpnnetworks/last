@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "description": "vpn documentation",
   "scripts": {
-    "marzban:dev": "NODE_ENV=development vitepress dev marzban --port 3000",
-    "marzban:build": "vitepress build marzban",
-    "marzban:preview": "vitepress preview marzban --port 3000"
+    "dev": "NODE_ENV=development vitepress dev . --port 3000",
+    "build": "vitepress build .",
+    "preview": "vitepress preview . --port 3000"
   },
   "author": "",
   "devDependencies": {
