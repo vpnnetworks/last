@@ -24,7 +24,7 @@ jobs:
           cache: npm
       - run: npm ci
       - name: Build
-        run: npm run marzban:build
+        run: npm run build
       - uses: actions/configure-pages@v2
       - name: Create dist directory and copy files to root
         run: |
