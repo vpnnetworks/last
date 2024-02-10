@@ -21,19 +21,19 @@ const englishThemeConfig = {
 
   footer: {
     message: 'Released under AGPL-3.0 License.',
-    copyright: 'Copyright © 2023-present Gozargah',
+    copyright: 'Copyright © 2024-present vpngelp.github.io',
   },
-  editLink: {
+  /*editLink: {
     pattern: 'https://github.com/gozargah/gozargah.github.io/edit/master/marzban/:path',
     text: 'Edit this page on GitHub',
-  },
+  },*/
 }
 
 const persianLang = {
   label: 'فارسی',
   lang: 'fa',
   dir: 'rtl',
-  title: 'مرزبان',
+  title: 'V2Ray Guide ',
   description: '',
   link: '/',
   themeConfig: persianThemeConfig,
@@ -41,8 +41,8 @@ const persianLang = {
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: 'Marzban',
-  description: 'Unified Censorship Resistant Solution',
+  title: 'V2Ray Guide',
+  description: 'V2Ray client tutorial',
   base: BASE,
   cleanUrls: true,
   lang: 'fa',
@@ -63,6 +63,6 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     i18nRouting: true,
     logo: '/images/logo-dark.png',
-    socialLinks: [{ icon: 'github', link: 'https://github.com/gozargah/marzban' }],
+    // socialLinks: [{ icon: 'telegram', link: 'https://t.me/guidevpn' }],
   },
 })
