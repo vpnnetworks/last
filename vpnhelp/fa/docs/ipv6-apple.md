@@ -6,6 +6,10 @@ title: IPV6 for IOS
 
 ۱- از بین لینک‌های زیر، با کلیک بر روی لینک پروفایل مخصوص اپراتور خود را دانلود کنید.
 
+[Irancell](https://raw.githubusercontent.com/VPNHELP/vpnhelp.github.io/main/irancell.mobileconfig)
+
+[Rightel](https://raw.githubusercontent.com/VPNHELP/vpnhelp.github.io/main/rightel.mobileconfig)
+
 2. یک پنجره برای شما باز می‌شود، گزینه‌ی Allow را انتخاب کنید.
 
 <img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/16ec025f-d703-4cda-adb2-a20e20b5abe4"
