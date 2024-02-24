@@ -34,6 +34,13 @@ export const config = {
         { text: 'Hiddify', link: '/docs/hiddify' },
       ],
     },
+    {
+      text: 'IPV6',
+      items: [
+        { text: 'SAMSUNG', link: '/docs/ipv6-samsung' },
+        { text: 'IOS', link: '/docs/ipv6-apple' },
+      ],
+    },
   ],
   nav: [
     { text: 'خانه', link: '/' },
