@@ -11,12 +11,15 @@ title: IPV6 for IOS
 <img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/16ec025f-d703-4cda-adb2-a20e20b5abe4"
      style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
 <br>
+
 سپس با این پیغام رو به رو می‌شوید:
+
 <img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/2220de0f-e914-480c-9530-36c34f902b15"
      style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
 <br>
 
 4. اکنون به Settings(تنظیمات) گوشی رفته و سپس گزینه‌ی Profile Downloaded رو انتخاب کنید.
+
 <img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/cd211913-7139-417d-aef0-9516bf8240ed"
      style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
 <br>
