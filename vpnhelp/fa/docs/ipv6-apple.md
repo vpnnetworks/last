@@ -36,11 +36,7 @@ title: IPV6 for IOS
      style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
 <br>
 
-<img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/c14f8078-d75f-44a3-ad2e-7d301831e815"
-     style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
-<br>
-
-<img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/c14f8078-d75f-44a3-ad2e-7d301831e815"
+<img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/66ed6be4-535b-4a37-b7e5-5e0ed027c19c"
      style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
 <br>
 
