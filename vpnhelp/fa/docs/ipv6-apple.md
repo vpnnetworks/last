@@ -28,13 +28,42 @@ title: IPV6 for IOS
      style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
 <br>
 
-<img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/cdbcfc4b-5bb0-45f8-9b5c-a70fa505bb0c"
+<img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/c4171e83-9a87-4a58-b672-5f7ea08cf7ee"
      style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
 <br>
 
+<img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/4332baed-871c-4f04-bfb5-764187c99dd6"
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
+<br>
 
+<img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/c14f8078-d75f-44a3-ad2e-7d301831e815"
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
+<br>
 
-توجه کنید:
+<img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/c14f8078-d75f-44a3-ad2e-7d301831e815"
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
+<br>
 
-موقع  آپدیت کردن سرور ها، فیلترشکن روشن دیگه ایی نداشته باشید.
+<img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/eb584375-0117-4a77-aa75-0f833f13c773"
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
+<br>
 
+<img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/bb31e949-3c43-4ea2-b10f-08c8da405f86"
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
+<br>
+
+<img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/48695b95-a21a-45e6-88a2-9ea71166b8e2"
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
+<br>
+
+<img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/3595a4cf-0828-46b1-948b-9dfefcafc9de"
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
+<br>
+
+<img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/12ae6d31-5b3c-4600-b5b1-8f815eec7063"
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
+<br>
+
+<img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/8eb05e74-14c4-4486-a98a-c49aab425c14"
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
+<br>
