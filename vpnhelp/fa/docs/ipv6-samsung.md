@@ -58,6 +58,9 @@ title: IPV6 for SAMSUNG
 
 <img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/fcf49d01-c64a-4dcf-94d2-f9fdf0d91e10"
      style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
+
+7- یکبار گوشی خود را به حالت پرواز برده و سپس آن را از حالت پرواز خارج کنید!
+حالا می‌توانید از IPv6 استفاده کنید. :)
 <br>
 
 <img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/80d92acd-fbe3-451f-beba-e23d6a5ee2a0"
