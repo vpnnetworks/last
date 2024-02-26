@@ -32,7 +32,7 @@ jobs:
           cp -r vpnhelp/.vitepress/dist/* dist/
       - uses: actions/upload-pages-artifact@v1
         with:
-          path: dist
+          path: dist 
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v1
