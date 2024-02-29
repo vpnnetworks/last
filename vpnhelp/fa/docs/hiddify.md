@@ -1,4 +1,4 @@
----
+![image](https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/42e848e2-91b1-404e-b83e-fde68e2f6163)---
 title: Hiddify
 ---
 
@@ -27,8 +27,12 @@ title: Hiddify
 <img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/23d72761-565b-48c2-9f3a-4ba4a9000ade"
      style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
 <br>
-۴- برای دیدن لیست سرور‌ها می‌توانید از تب Proxies استفاده کنید.
+۴- برای دیدن لیست سرور‌ها می‌توانید بعد از اتصال از تب Proxies استفاده کنید.
 
+
+<img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/91540041-f5c4-483c-9d36-20f110429b48"
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
+<br>
 ⚠️ توجه کنید:
 
 ۱- هنگام اضافه کردن لینک آپدیت، فیلترشکن روشنی نداشته باشید.
@@ -40,7 +44,16 @@ title: Hiddify
 
 ۱- بر روی subscription در صفحه‌ی اصلی کلیک کنید.
 
+
+<img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/4fb9a38e-16e9-4566-981f-09f0e02b1ae2"
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
+<br>
+
 ۲- در پنجره‌ی باز شده گزینه‌ی update all subscription را انتخاب کنید.
+
+<img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/f0fad5c1-c4d4-476e-a341-27a2473e8e8e"
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
+<br>
 
 ⚠️ توجه کنید:
 
