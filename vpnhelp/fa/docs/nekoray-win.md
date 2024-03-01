@@ -43,9 +43,9 @@ title: Nekoray
 
 ## آپدیت کردن لینک اتصال (subscription)
 
-1. وارد برنامه شوید و از قسمت Preferences گزینه Groups را انتخاب کنید.
+1. وارد برنامه شوید و از قسمت Server، گزینه‌ی Current Group را انتخاب کنید و سپس بر روی Update subscription کلیک کنید. (می‌توانید از کلید‌های ترکیبی  Ctrl+U نیز استفاده کنید)
 
-2.  روی گزینه Update Subscription بزنید تا سرور ها براتون آپدیت بشه.
+![image](https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/5db2c11f-298d-4621-bf9d-684e22b812cc)
 
 ⚠️ توجه کنید:
 
