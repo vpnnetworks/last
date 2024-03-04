@@ -13,11 +13,18 @@ title: Streisand
 
 2. وارد برنامه Streisand شوید، سمت راست بالا روی + کلیک کنید و سپس گزینه Import from Clipboard را انتخاب کنید تا سرور ها اضافه شود.
 
-<img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/a45d9582-c99e-4106-834c-4331dfcbbbf6"
+<img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/afec56c9-629f-47f8-8724-4389408e7d97"
      style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
 <br>
 
-<img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/f8690795-0fa5-4fbf-aafc-410b6a9a6d98"
+
+<img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/d40d605e-1964-4ab7-8803-63e23156f9f8"
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
+<br>
+
+3- در صورت موفقیت آمیز بودن، سرور‌های جدید به لیست سرور‌های شما اضافه می‌گردد.
+
+<img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/488f4b58-8fa9-4a34-99ea-5b96db6ecaf4"
      style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
 <br>
 
@@ -35,7 +42,17 @@ title: Streisand
 
 
 
-4. اکنون یک سرور را انتخاب و متصل شوید.
+4. اکنون به تب Home برگشته و یک سرور را انتخاب و متصل شوید.
+<img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/509ace1c-424e-40b4-b4ce-1ac7d0d4fad0"
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
+<br>
+
+5- ممکن است برای اتصال به VPN از شما سوال پرسید شود، گزینه‌ی Allow را انتخاب کنید.
+<img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/c2606876-c1b8-4eea-86c9-61c4e96f4df4"
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
+<br>
+
+تبریک، شما به اینترنت آزاد متصل شدید! :)
 
 ⚠️ توجه کنید:
 
