@@ -11,7 +11,7 @@ title: Streisand
 ## اضافه کردن لینک اتصال (subscription)
 ۱- وارد ربات شوید و با استفاده از دکمه‌ی مدیریت سرویس لینک اتصال (subscription) خود را دریافت کنید. سپس لینک مورد نظر را کپی کنید.
 
-2. وارد برنامه Streisand شوید، سمت راست بالا روی + کلیک کنید و سپس گزینه Import from Clipboard را انتخاب کنید تا سرور ها اضافه شود.
+۲- وارد برنامه Streisand شوید، سمت راست بالا روی + کلیک کنید و سپس گزینه Import from Clipboard را انتخاب کنید تا سرور ها اضافه شود.
 
 <img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/afec56c9-629f-47f8-8724-4389408e7d97"
      style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
@@ -22,19 +22,19 @@ title: Streisand
      style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
 <br>
 
-3- در صورت موفقیت آمیز بودن، سرور‌های جدید به لیست سرور‌های شما اضافه می‌گردد.
+۳- در صورت موفقیت آمیز بودن، سرور‌های جدید به لیست سرور‌های شما اضافه می‌گردد.
 
 <img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/488f4b58-8fa9-4a34-99ea-5b96db6ecaf4"
      style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
 <br>
 
-3- وارد تب Seetings شوید، سپس گزینه‌ی Subscription را انتخاب کنید.
+۴- وارد تب Seetings شوید، سپس گزینه‌ی Subscription را انتخاب کنید.
 
 <img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/bfd15c5c-2645-4075-9e74-e088f20502ca"
      style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
 <br>
 
-4- در صفحه‌ی جدیدی که برای شما باز شده گزینه‌ی Update On Open را فعال کنید.
+۵- در صفحه‌ی جدیدی که برای شما باز شده گزینه‌ی Update On Open را فعال کنید.
 
 <img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/a6d40648-469e-4688-ab4f-12da62bd68a9"
      style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
@@ -42,12 +42,12 @@ title: Streisand
 
 
 
-4. اکنون به تب Home برگشته و یک سرور را انتخاب و متصل شوید.
+۶- اکنون به تب Home برگشته و یک سرور را انتخاب و متصل شوید.
 <img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/509ace1c-424e-40b4-b4ce-1ac7d0d4fad0"
      style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
 <br>
 
-5- ممکن است برای اتصال به VPN از شما سوال پرسید شود، گزینه‌ی Allow را انتخاب کنید.
+۷- ممکن است برای اتصال به VPN از شما سوال پرسید شود، گزینه‌ی Allow را انتخاب کنید.
 <img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/c2606876-c1b8-4eea-86c9-61c4e96f4df4"
      style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
 <br>
