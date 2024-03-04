@@ -1,4 +1,4 @@
----
+![image](https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/f7fbdc1e-50f2-4dab-a160-60843944b136)---
 title: Streisand
 ---
 
@@ -20,6 +20,20 @@ title: Streisand
 <img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/f8690795-0fa5-4fbf-aafc-410b6a9a6d98"
      style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
 <br>
+
+3- وارد تب Seetings شوید، سپس گزینه‌ی Subscription را انتخاب کنید.
+
+<img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/bfd15c5c-2645-4075-9e74-e088f20502ca"
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
+<br>
+
+4- در صفحه‌ی جدیدی که برای شما باز شده گزینه‌ی Update On Open را فعال کنید.
+
+<img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/a6d40648-469e-4688-ab4f-12da62bd68a9"
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
+<br>
+
+
 
 4. اکنون یک سرور را انتخاب و متصل شوید.
 
@@ -48,7 +62,16 @@ title: Streisand
 
 1. در برنامه Streisand روی قسمت Subscription چند ثانیه نگه دارید تا گزینه ها نمایش داده شود.
 
+<img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/587b55c7-d203-4d35-b274-0bba1e07a4d9"
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
+<br>
+
 2. روی گزینه Update کلیک کنید تا از سرورها آپدیت شود.
+
+<img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/5676032c-2b5e-4aa5-9d4b-d61475c75fae"
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
+<br>
+
 
 ⚠️ توجه کنید:
 
