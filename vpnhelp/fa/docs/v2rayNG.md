@@ -33,7 +33,7 @@ title: v2rayNG
 
 ## مرتب کردن سرور‌ها بر اساس پینگ
 
-1. روی سه نقطه بالا سمت راست بزنید و گزینه Real delay all configuration را انتخاب کنید تا از سرور ها تست پینگ بگیرد.
+۱- روی سه نقطه بالا سمت راست بزنید و گزینه Real delay all configuration را انتخاب کنید تا از سرور ها تست پینگ بگیرد.
 
 <img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/5cec3b68-421e-4af8-863a-0d2740c400f8"
      style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
@@ -43,7 +43,7 @@ title: v2rayNG
      style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
 <br>
 
-2. بعد از اتمام تست پینگ مجددا روی سه نقطه سمت راست بالا بزنید و روی گزینه Sorting by test results کلیک کنید تا برای شما بهترین سرور را طبق پینگ کمتر مرتب سازی کند.
+۲- بعد از اتمام تست پینگ مجددا روی سه نقطه سمت راست بالا بزنید و روی گزینه Sorting by test results کلیک کنید تا برای شما بهترین سرور را طبق پینگ کمتر مرتب سازی کند.
 
 <img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/5cec3b68-421e-4af8-863a-0d2740c400f8"
      style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
@@ -60,7 +60,7 @@ title: v2rayNG
 
 ## آپدیت کردن لینک اتصال (subscription)
 
-1. روی سه نقطه بالا سمت راست بزنید و روی گزینه Update subscription کلیک کنید تا پیام موفقیت آمیز (Success) برای شما نمایش داده شود و سرور های شما بروز شود.
+۱- روی سه نقطه بالا سمت راست بزنید و روی گزینه Update subscription کلیک کنید تا پیام موفقیت آمیز (Success) برای شما نمایش داده شود و سرور های شما بروز شود.
 
 <img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/99ab5408-9185-4330-b581-4e8e9839ee1f"
      style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
