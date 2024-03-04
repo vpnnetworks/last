@@ -4,9 +4,9 @@ title: v2rayNG
 
 # آموزش v2rayNG
 
-🛒 دانلود از پلی استور (Play Store) (https://play.google.com/store/apps/details?id=com.v2ray.ang)
+🛒 [دانلود از پلی استور (Play Store)](https://play.google.com/store/apps/details?id=com.v2ray.ang)
 
-🐈‍⬛️ دانلود از گیت هاب(بدون فیلتر) (GitHub) (https://github.com/2dust/v2rayNG/releases)
+🐈‍⬛️ [دانلود از گیت هاب(بدون فیلتر) (GitHub)](https://github.com/2dust/v2rayNG/releases/download/1.8.17/v2rayNG_1.8.17_armeabi-v7a.apk)
 
 ## اضافه کردن لینک اتصال (subscription)
 ۱- وارد ربات شوید و با استفاده از دکمه‌ی مدیریت سرویس لینک اتصال (subscription) خود را دریافت کنید. سپس لینک مورد نظر را کپی کنید.
