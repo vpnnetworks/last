@@ -5,23 +5,23 @@
 
 ## IOS
 
-1. [Streisand](https://vpnhelp.github.io/docs/streisand) ✅
+ - [Streisand](https://vpnhelp.github.io/docs/streisand) ✅
 
-2. [Hiddify](https://vpnhelp.github.io/docs/hiddify)
+ - [Hiddify](https://vpnhelp.github.io/docs/hiddify)
 
-3. [Fair](https://vpnhelp.github.io/docs/fair) ❌
+ - [Fair](https://vpnhelp.github.io/docs/fair) ❌
 
 ## Android
 
-1. [V2rayNG](https://vpnhelp.github.io/docs/v2rayNG) ✅
-2. [Hiddify](https://vpnhelp.github.io/docs/hiddify)
+ - [V2rayNG](https://vpnhelp.github.io/docs/v2rayNG) ✅
+ - [Hiddify](https://vpnhelp.github.io/docs/hiddify)
 
 ## Windows
-1. [Nekoray](https://vpnhelp.github.io/docs/nekoray-win) ✅
-2. Hiddify
+ - [Nekoray](https://vpnhelp.github.io/docs/nekoray-win) ✅
+ - Hiddify
 
 ## Mac
 
 ## Linux
-1. [Nekoray](https://vpnhelp.github.io/docs/nekoray-win) ✅
+ - [Nekoray](https://vpnhelp.github.io/docs/nekoray-win) ✅
 
