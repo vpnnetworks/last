@@ -17,13 +17,20 @@
 ## Android
 
  - [V2rayNG](https://vpnhelp.github.io/docs/v2rayNG) ✅
+
  - [Hiddify](https://vpnhelp.github.io/docs/hiddify)
 
 ## Windows
  - [Nekoray](https://vpnhelp.github.io/docs/nekoray-win) ✅
- - Hiddify
+
+ - [Hiddify](https://vpnhelp.github.io/docs/hiddify-win)
 
 ## Mac
+ - [Nekoray](https://vpnhelp.github.io/docs/nekoray-mac) ✅
+
+ - [V2Box](https://vpnhelp.github.io/docs/v2box)
+
+ - [FoXray](https://vpnhelp.github.io/docs/foxray)
 
 ## Linux
  - [Nekoray](https://vpnhelp.github.io/docs/nekoray-win) ✅
