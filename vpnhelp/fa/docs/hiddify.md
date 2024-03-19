@@ -33,13 +33,14 @@ title: Hiddify
 <img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/91540041-f5c4-483c-9d36-20f110429b48"
      style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
 <br>
-⚠️ توجه کنید:
+
+::: warning ⚠️ توجه کنید:
 
 ۱- هنگام اضافه کردن لینک آپدیت، فیلترشکن روشنی نداشته باشید.
 
 ۲- تنظیمات ساعت و تاریخ کامپیوتر‌تان حتما روی اتوماتیک باشد.
 
-
+:::
 ## آپدیت کردن لینک اتصال (subscription)
 
 ۱- بر روی subscription در صفحه‌ی اصلی کلیک کنید.
@@ -55,6 +56,6 @@ title: Hiddify
      style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
 <br>
 
-⚠️ توجه کنید:
-
+::: warning ⚠️ توجه کنید:
 ۱- هنگام آپدیت کردن، فیلترشکن روشنی نداشته باشید.
+:::
