@@ -48,7 +48,7 @@ export const config = {
 
   footer: {
     message: 'منتشر شده تحت لایسنس AGPL-3.0',
-    copyright: 'توسعه داده شده در کارگروه گذرگاه',
+    copyright: '© 2024',
   },
   outlineTitle: 'محتوا صفحه',
   returnToTopLabel: 'برگشت به بالا',
