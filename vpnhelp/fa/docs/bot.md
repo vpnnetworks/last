@@ -2,9 +2,8 @@
 title: آموزش خرید استفاده از ربات
 ---
 
-# لیست آموزش‌ها
-
 ## آموزش خرید از ربات
+
 ۱- اول ربات را ```/start``` کرده تا منوی ربات به شما نشان داده شود. 
 <img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/47e6d238-6cc3-49e9-895f-dd6fadf567aa"
      style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
@@ -41,6 +40,11 @@ title: آموزش خرید استفاده از ربات
 <br>
 
 ۸- در این مرحله اطلاعات کارت به شما ارسال می‌شه، از شما خواسته می‌شود رسید را به ربات ارسال کنید.
+
+<img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/de8c92e6-05a8-4af0-9229-968dc7d55482"
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
+<br>
+
 ::: warning ⚠️ توجه کنید: 
 
 ۱- رسید را حتما به صورت عکس به ربات ارسال کنید.
@@ -52,7 +56,26 @@ title: آموزش خرید استفاده از ربات
 <br>
 
 :::
-<img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/de8c92e6-05a8-4af0-9229-968dc7d55482"
-     style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
-<br>
+
+۹۰ اگر پیام
+```
+عکس فیش پرداختی شما دریافت شد. پس از بررسی پرداخت شما سرویس فعال خواهد شد.
+```
+را دریافت کردید، رسید شما با موفقیت ارسال شده.
+در اسرع وقت سرویس شما فعال شده و ارسال می‌شود.
+
+
+## آموزش دریافت همه‌ی سرویس‌های فعال
+
+۱- در منوی ربات روی گزینه‌ی مدیریت سرویس کلیک کنید.
+![image](https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/9719e9f0-33de-4032-b1b5-6d7f392ae22a)
+
+۲- ربات تمامی اشتراک‌های فعال شما را برایتان ارسال می‌کند.
+![image](https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/10bd890f-6e80-4781-b66a-3a02d3517900)
+
+::: tip ✅ نکته
+با استفاده از منو‌های ربات می‌توانید سرویس خود را تمدید کنید یا لینک سرویس را عوض کنید.
+:::
+
+
 
