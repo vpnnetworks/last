@@ -68,11 +68,13 @@ title: آموزش خرید استفاده از ربات
 ## آموزش دریافت همه‌ی سرویس‌های فعال
 
 ۱- در منوی ربات روی گزینه‌ی مدیریت سرویس کلیک کنید.
-![image](https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/9719e9f0-33de-4032-b1b5-6d7f392ae22a)
-
+<img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/9719e9f0-33de-4032-b1b5-6d7f392ae22a"
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
+<br>
 ۲- ربات تمامی اشتراک‌های فعال شما را برایتان ارسال می‌کند.
-![image](https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/10bd890f-6e80-4781-b66a-3a02d3517900)
-
+<img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/10bd890f-6e80-4781-b66a-3a02d3517900"
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
+<br>
 ::: tip ✅ نکته
 با استفاده از گزینه‌های هر سرویس می‌توانید سرویس خود را تمدید کنید یا لینک سرویس را عوض کنید.
 :::
@@ -80,22 +82,26 @@ title: آموزش خرید استفاده از ربات
 ## آموزش تمدید سرویس
 
 ۱- در منوی ربات روی گزینه‌ی مدیریت سرویس کلیک کنید.
-![image](https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/9719e9f0-33de-4032-b1b5-6d7f392ae22a)
-
+<img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/9719e9f0-33de-4032-b1b5-6d7f392ae22a"
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
+<br>
 ۲- ربات تمامی اشتراک‌های فعال شما را برایتان ارسال می‌کند.
-![image](https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/10bd890f-6e80-4781-b66a-3a02d3517900)
-
+<img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/10bd890f-6e80-4781-b66a-3a02d3517900"
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
+<br>
 ۳- با کلیک روی دکمه‌ی 🔄 تمدید سرویس، برای هر سرویس می‌توانید آن را تمدید کنید.
 
 ## آموزش تغییر لینک سرویس
 
 
 ۱- در منوی ربات روی گزینه‌ی مدیریت سرویس کلیک کنید.
-![image](https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/9719e9f0-33de-4032-b1b5-6d7f392ae22a)
-
+<img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/9719e9f0-33de-4032-b1b5-6d7f392ae22a"
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
+<br>
 ۲- ربات تمامی اشتراک‌های فعال شما را برایتان ارسال می‌کند.
-![image](https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/10bd890f-6e80-4781-b66a-3a02d3517900)
-
+<img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/10bd890f-6e80-4781-b66a-3a02d3517900"
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:52%">
+<br>
 ۳- با کلیک روی دکمه‌ی 🔐 تغییر لینک سرویس، می‌توانید لینک هر سرویس را تغییر دهید.
 
 
