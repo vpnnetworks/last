@@ -27,7 +27,7 @@ title: v2rayNG
 <br>
 :::
 ۴- بعد از باز شدن با عکس زیر مواجه میشوید، زبان نرم افزار چینی است برای تغییر روی ایکون نمایش داده کلیک کنید و فارسی یا انگلیسی را انتخاب کنید.
-<img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/b0539f7f-0c67-4437-90be-6185e0b1f2ba"
+<img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/cca0a2a1-30a0-4fd6-a221-055f479e0278"
      style="display:block;float:none;margin-left:auto;margin-right:auto;width:81%">
 <br>
 
