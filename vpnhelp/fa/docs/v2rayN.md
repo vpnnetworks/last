@@ -21,7 +21,7 @@ title: v2rayNG
      style="display:block;float:none;margin-left:auto;margin-right:auto;width:81%">
 <br>
 ::: warning ⚠️ توجه کنید:
-همانطور که در قسمت قبل گفتیم باید بر روی فایل v2rayN.exe کلیک کنید تا برنامه v2rayN اجرا شود. اگر با کلیک کردن بر روی فایل v2rayN.exe پنجره برنامه v2rayN برای شما ظاهر نشد، طبق تصویر پایین باید از منوی مخفی تسکبار بر روی ایکون v2rayN تا پنجره برنامه برای شما باز شود.
+همانطور که در قسمت قبل گفتیم باید بر روی فایل v2rayN.exe کلیک کنید تا برنامه v2rayN اجرا شود. اگر با کلیک کردن بر روی فایل v2rayN.exe پنجره برنامه v2rayN برای شما ظاهر نشد، طبق تصویر پایین باید از منوی مخفی تسکبار بر روی ایکون v2rayN کلیک کنید تا پنجره برنامه برای شما باز شود.
 <img src="https://github.com/VPNHELP/vpnhelp.github.io/assets/129318294/b0a26727-8d37-448e-8742-9dece001f1f8"
      style="display:block;float:none;margin-left:auto;margin-right:auto;width:81%">
 <br>
