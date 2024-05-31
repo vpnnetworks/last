@@ -16,12 +16,14 @@
 
 ## Android
 
- - [V2rayNG](https://vpnhelp.github.io/docs/v2rayNG) ✅
+ - [v2rayNG](https://vpnhelp.github.io/docs/v2rayNG) ✅
 
  - [Hiddify](https://vpnhelp.github.io/docs/hiddify)
 
 ## Windows
- - [Nekoray](https://vpnhelp.github.io/docs/nekoray-win) ✅
+ - [v2rayN](https://vpnhelp.github.io/docs/v2rayN) 
+
+ - [Nekoray](https://vpnhelp.github.io/docs/nekoray-win) 
 
  - [Hiddify](https://vpnhelp.github.io/docs/hiddify-win)
 
