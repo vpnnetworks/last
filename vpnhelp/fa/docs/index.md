@@ -1,9 +1,11 @@
 راهنمای اتصال به سرور‌های V2ray و دسترسی به اینترنت آزاد.
+بر روی اسم برنامه مد نظر بزنید تا اموزش نصب و راه اندازی آن به شما نشان داده شود.
 
 ::: warning ⚠️ توجه کنید:
 ۱- برنامه‌هایی که در کنار اسم آن‌هاعلامت ✅ گذاشته شده، پیشنهاد‌ما می‌باشد و بهتر است از این برنامه‌ها استفاده کنید.
 
 ۲- ترجیحا برنامه‌هایی که در کنار اسم خود علامت ❌ را دارند استفاده نکنید.
+
 :::
 
 ## IOS
@@ -21,7 +23,7 @@
  - [Hiddify](https://vpnhelp.github.io/docs/hiddify)
 
 ## Windows
- - [v2rayN](https://vpnhelp.github.io/docs/v2rayN) 
+ - [v2rayN](https://vpnhelp.github.io/docs/v2rayN) ✅
 
  - [Nekoray](https://vpnhelp.github.io/docs/nekoray-win) 
 
@@ -37,3 +39,6 @@
 ## Linux
  - [Nekoray](https://vpnhelp.github.io/docs/nekoray-win) ✅
 
+
+
+آموزش خرید و تمدید سرویس و استفاده از ربات (https://vpnhelp.github.io/docs/bot)
