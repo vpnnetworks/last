@@ -22,6 +22,7 @@ export const config = {
     {
       text: 'Windows',
       items: [
+        { text: 'v2rayN', link: '/docs/v2rayN' },
         { text: 'Nekoray', link: '/docs/nekoray-win' },
         { text: 'Hiddify', link: '/docs/hiddify' },
       ],
