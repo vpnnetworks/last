@@ -12,7 +12,7 @@
 
  - [Streisand](https://vpnhelp.github.io/docs/streisand) ✅
 
- - [Hiddify](https://vpnhelp.github.io/docs/hiddify)
+ - [Hiddify](https://vpnhelp.github.io/docs/hiddify) ❌
 
  - [Fair](https://vpnhelp.github.io/docs/fair) ❌
 
@@ -20,21 +20,23 @@
 
  - [v2rayNG](https://vpnhelp.github.io/docs/v2rayNG) ✅
 
- - [Hiddify](https://vpnhelp.github.io/docs/hiddify)
+ - [Hiddify](https://vpnhelp.github.io/docs/hiddify) ❌
 
 ## Windows
  - [v2rayN](https://vpnhelp.github.io/docs/v2rayN) ✅
 
- - [Nekoray](https://vpnhelp.github.io/docs/nekoray-win) 
+ - [Nekoray](https://vpnhelp.github.io/docs/nekoray-win) ❌
 
- - [Hiddify](https://vpnhelp.github.io/docs/hiddify-win)
+ - [Hiddify](https://vpnhelp.github.io/docs/hiddify-win) ❌
 
 ## Mac
- - [Nekoray](https://vpnhelp.github.io/docs/nekoray-mac) ✅
+ - [Streisand](https://vpnhelp.github.io/docs/streisand) ✅
 
- - [V2Box](https://vpnhelp.github.io/docs/v2box)
+ - [Nekoray](https://vpnhelp.github.io/docs/nekoray-mac) ❌
 
- - [FoXray](https://vpnhelp.github.io/docs/foxray)
+ - [V2Box](https://vpnhelp.github.io/docs/v2box) ❌
+
+ - [FoXray](https://vpnhelp.github.io/docs/foxray) ❌
 
 ## Linux
  - [Nekoray](https://vpnhelp.github.io/docs/nekoray-win) ✅
