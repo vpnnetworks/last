@@ -5,6 +5,8 @@ title: Streisand
 # آموزش Streisand
 
 ✔️ به iOS 14.0 یا بالاتر نیاز دارد.
+✔️ آخرین نسخه‌ی MacOS.
+
 
 [🛒 دانلود از اپ استور (App Store)](https://apps.apple.com/us/app/streisand/id6450534064)
 
