@@ -5,7 +5,7 @@
 	<key>ConsentText</key>
 	<dict>
 		<key>default</key>
-		<string>ASEINet APN構成プロファイル（IPv6 support）</string>
+		<string>Enable IPV6 for rightel</string>
 	</dict>
 	<key>PayloadContent</key>
 	<array>
