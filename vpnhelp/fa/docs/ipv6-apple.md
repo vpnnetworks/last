@@ -8,6 +8,8 @@ title: IPV6 for IOS
 
 [Irancell](https://vpnhelp.github.io/irancell.mobileconfig)
 
+[HamrahAvval](https://vpnhelp.github.io/rightel.mobileconfig)
+
 [Rightel](https://vpnhelp.github.io/rightel.mobileconfig)
 
 2. یک پنجره برای شما باز می‌شود، گزینه‌ی Allow را انتخاب کنید.

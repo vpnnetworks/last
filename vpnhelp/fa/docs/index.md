@@ -43,4 +43,10 @@
 
 
 
-آموزش خرید و تمدید سرویس و استفاده از ربات (https://vpnhelp.github.io/docs/bot)
+## باقی آموزش‌ها
+
+[آموزش خرید و تمدید سرویس و استفاده از ربات](https://vpnhelp.github.io/docs/bot)
+[آموزش فعال کردن ipv6](https://vpnhelp.github.io/docs/ipv6-apple)
+
+
+

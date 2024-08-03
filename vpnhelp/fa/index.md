@@ -13,11 +13,8 @@ hero:
     alt: v2ray guide
   actions:
     - theme: brand
-      text: مطالعه مستندات
+      text: چگونه وصل بشم؟
       link: './docs/'
-    - theme: alt
-      text: نمونه‌ها
-      link: './examples/'
 
 features:
 
