@@ -15,6 +15,9 @@ hero:
     - theme: brand
       text: چگونه وصل بشم؟
       link: './docs/'
+    - theme: connection-helper
+      text: به چه سروی وصل بشم؟
+      link: './docs/qa'
 
 features:
 
