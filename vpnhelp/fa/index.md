@@ -18,6 +18,9 @@ hero:
     - theme: connection-helper
       text: به چه سروی وصل بشم؟
       link: './docs/qa'
+    - theme: uptime
+      text: وضعیت سرور‌ها
+      link: 'https://021912.xyz/status/nb'
 
 features:
 
