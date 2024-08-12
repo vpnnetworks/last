@@ -15,10 +15,10 @@ hero:
     - theme: brand
       text: چگونه وصل بشم؟
       link: './docs/'
-    - theme: connection-helper
+    - theme: alt
       text: به چه سروی وصل بشم؟
       link: './docs/qa'
-    - theme: uptime
+    - theme: alt
       text: وضعیت سرور‌ها
       link: 'https://021912.xyz/status/nb'
 
