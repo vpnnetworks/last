@@ -7,10 +7,6 @@ export const config = {
           text: 'v2rayNG',
           link: '/docs/v2rayNG',
         },
-        {
-          text: 'Hiddify',
-          link: '/docs/hiddify',
-        },
       ],
     },
     {
@@ -23,16 +19,12 @@ export const config = {
       text: 'Windows',
       items: [
         { text: 'v2rayN', link: '/docs/v2rayN' },
-        { text: 'Nekoray', link: '/docs/nekoray-win' },
-        { text: 'Hiddify', link: '/docs/hiddify' },
       ],
     },
     {
       text: 'MacOS',
       items: [
-        { text: 'FoxRay', link: '' },
-        { text: 'Sing-Box', link: '/docs/sing-box'},
-        { text: 'Hiddify', link: '/docs/hiddify' },
+        { text: 'Streisand', link: '/docs/streisand' },
       ],
     },
     {
